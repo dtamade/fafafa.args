@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Debug"/>
+    <Units>
+      <Unit>
+        <Filename Value="example.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="48" Y="44"/>
+        <UsageCount Value="110"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\fafafa.args.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="725"/>
+        <CursorPos X="40" Y="776"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="938"/>
+          <CursorPos X="35" Y="970"/>
+        </ExtraEditor1>
+        <UsageCount Value="110"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="126"/>
+        <CursorPos X="20" Y="157"/>
+        <UsageCount Value="54"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="892"/>
+        <CursorPos X="11" Y="924"/>
+        <UsageCount Value="54"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\win\syswin.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="353"/>
+        <CursorPos X="3" Y="355"/>
+        <UsageCount Value="54"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\win\syswinh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="3" Y="55"/>
+        <UsageCount Value="54"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="17" Y="82"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="10" Y="85"/>
+        <UsageCount Value="44"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="222"/>
+        <CursorPos X="16" Y="280"/>
+        <UsageCount Value="44"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\x86_64\x86_64.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="826"/>
+        <CursorPos X="10" Y="828"/>
+        <UsageCount Value="44"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysunih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="11"/>
+        <CursorPos X="10" Y="42"/>
+        <UsageCount Value="35"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysuni.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="260"/>
+        <CursorPos X="3" Y="260"/>
+        <UsageCount Value="35"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\ccr\graphics32\Benchmarks\spring4d.benchmark\Spring.Benchmark.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="331"/>
+        <CursorPos X="14" Y="363"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\ccr\pasvulkan\src\PasVulkan.CircularDoublyLinkedList.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="13" Y="72"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\packages\fcl-js\src\jstree.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1161"/>
+        <CursorPos X="3" Y="1177"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="761"/>
+        <CursorPos X="19" Y="800"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\packages\fcl-stl\src\gvector.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="14" Y="110"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\classes\collect.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="136"/>
+        <CursorPos X="3" Y="138"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\test\argtestcase.pas"/>
+        <UnitName Value="argTestCase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="117" Y="95"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="28" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="34" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="46" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="17" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="58" Column="46"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="/x -f --encode /in=in.txt --out:out.txt header.h"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="20">
+        <Item1 Value="/x -f --encode /in=in.txt --out:out.txt header.h"/>
+        <Item2 Value="test.db -xyz --inFile in.txt -o=output.txt -a -b -c -x --version /abc"/>
+        <Item3 Value="-xyz --inFile in.txt -o=output.txt -a -b -c -x --version /abc"/>
+        <Item4 Value="inFile.txt outFile.txt style.txt --append --utf8 -d -l"/>
+        <Item5 Value="inFile.txt outFile.txt style.txt --append --utf8 "/>
+        <Item6 Value="inFile.txt --append --utf8 outFile.txt"/>
+        <Item7 Value="inFile.txt --append --utf8"/>
+        <Item8 Value="--encode &quot;abc&quot;"/>
+        <Item9 Value="/o=output.txt /a /b /c /x"/>
+        <Item10 Value="-xyz --inFile in.txt -o=output.txt -a -b -c -x --version /a"/>
+        <Item11 Value="--inFile in.txt -o=output.txt -a -b -c -x --version -xyz"/>
+        <Item12 Value="-xyz"/>
+        <Item13 Value="--inFile in.txt -o=output.txt -a -b -c -x --version"/>
+        <Item14 Value="-i test.txt --out out.txt -r -x --force"/>
+        <Item15 Value="-i &quot;c:/in.txt&quot; --out &quot;c:/out.txt&quot; -r -x"/>
+        <Item16 Value="/i &quot;c:/in.txt&quot; /out &quot;c:/out.txt&quot; /r /x"/>
+        <Item17 Value="/in &quot;c:/in.txt&quot; /out &quot;c:/out.txt&quot; /r /x"/>
+        <Item18 Value="-a -b -c -d"/>
+        <Item19 Value="a b c d"/>
+        <Item20 Value="inFile.txt outFile.txt style.txt --append --utf8"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\src\fafafa.args.pas"/>
+        <Line Value="1321"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
